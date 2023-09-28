@@ -5,10 +5,10 @@ This extension adds a dark mode for canvas.
 ## Installation
 The original extension is available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/canvas-dark-mode/jbfgmfpakhabhhpefblmehnadjjkadna?utm_source=chrome-ntp-icon).
 
-
+1. Download this repository using git clone, or download it as a .zip file
 1. Open chrome://extensions/ on your browser
 2. Click Load Unpacked
-3. Make your changes, verify they work. (remember, other schools use this, not just yours!)
+3. Load the directory with the manifest.json file, it should be inside the plugins folder
 4. Click `Load Unpacked`
 5. Enjoy the extention!
 

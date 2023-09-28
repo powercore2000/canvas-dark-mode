@@ -9,7 +9,11 @@
   --ic-brand-global-nav-menu-item__text-color--active: #fff;
   --ic-brand-global-nav-ic-icon-svg-fill--active: #fff;
   --ic-brand-font-color-dark-lightened-15: #C7CDD1;
+  --ic-link-color: #16b8c4;
+  --ic-brand-font-color-dark : #fff;
   --eHiXd-linkColor: #fff;
+  --MlJlv-textColor: #fff;
+  --yyQPt-labelColor : #cecece;
 }
 
 .ic-DashboardCard, .ic-DashboardCard__header_content, .header,
@@ -32,7 +36,7 @@ span[role=dialog], span[role=dialog] > div, .agenda-wrapper, .agenda-day, .agend
     color: #888 !important;
 }
 
-body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-toggler, .ic-Input, .ic-DashboardCard__box__header {
+body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-toggler, .ic-Input, .ic-DashboardCard__box__header, .assignment-student-header{
     background: #1f1f1f !important;
     color: #C7CDD1 !important;
 }
@@ -56,7 +60,7 @@ body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-to
 }
 
 a {
-    color: #fff !important;
+    color:#16b8c4 !important;
     text-decoration: none !important;
 }
 
